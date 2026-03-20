@@ -1,11 +1,12 @@
-❤️ ***ECG Heartbeat Classification with Personalized AI & Explainability***
-![66b3a1a27dbc3854c5257c8b_blog-heart-diagnostics](https://github.com/user-attachments/assets/fb2370bb-6b38-4980-a043-3bdff8b2caf8)
+❤️ **ECG Heartbeat Classification with Personalized AI & Explainability**
 
 📌 Overview
 
 This project presents an deep learning pipeline for ECG heartbeat classification using the MIT-BIH Arrhythmia dataset. It combines a 1D Convolutional Neural Network (CNN) with patient-specific personalization and model explainability (Grad-CAM) to improve both performance and interpretability.
 
 The system demonstrates how AI can move beyond generic predictions to personalized healthcare insights.
+![66b3a1a27dbc3854c5257c8b_blog-heart-diagnostics](https://github.com/user-attachments/assets/aedcb896-28d7-4267-9eac-f2077991f8ac)
+
 
 🚀 Key Features
 
