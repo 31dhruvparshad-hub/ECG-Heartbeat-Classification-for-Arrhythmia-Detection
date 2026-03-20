@@ -1,4 +1,4 @@
-❤️ #***ECG Heartbeat Classification with Personalized AI & Explainability***
+❤️ ***ECG Heartbeat Classification with Personalized AI & Explainability***
 ![66b3a1a27dbc3854c5257c8b_blog-heart-diagnostics](https://github.com/user-attachments/assets/fb2370bb-6b38-4980-a043-3bdff8b2caf8)
 
 📌 Overview
