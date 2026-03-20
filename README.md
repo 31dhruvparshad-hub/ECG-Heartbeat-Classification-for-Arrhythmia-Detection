@@ -42,8 +42,6 @@ Displays predictions and model explanations
 
 Enables intuitive interpretation of results
 
-git clone https://github.com/your-username/ecg-ai.git
-cd ecg-ai
 pip install -r requirements.txt
 🧪 Dataset Preparation
 python main.py
