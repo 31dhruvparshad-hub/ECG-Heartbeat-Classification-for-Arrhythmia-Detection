@@ -42,33 +42,6 @@ Displays predictions and model explanations
 
 Enables intuitive interpretation of results
 
-🏗️ Project Structure
-ecg-ai/
-│── data/
-│   ├── mitbih_loader.py
-│   ├── heartbeat_segment.py
-│   └── patient_data.py
-│
-│── models/
-│   ├── cnn_model.py
-│   ├── train_global.py
-│   └── personalize.py
-│
-│── explainability/
-│   └── gradcam.py
-│
-│── app/
-│   └── dashboard.py
-│
-│── config/
-│   └── settings.py
-│
-│── dataset/
-│   └── processed/
-│
-│── main.py
-│── requirements.txt
-⚙️ Installation
 git clone https://github.com/your-username/ecg-ai.git
 cd ecg-ai
 pip install -r requirements.txt
